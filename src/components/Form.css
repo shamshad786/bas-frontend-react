@@ -1,0 +1,15 @@
+.form-container{
+    max-width: 1366px;
+    text-align: center;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+}
